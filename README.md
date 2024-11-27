@@ -1,4 +1,4 @@
-Airline Review Analysis Dashboard
+Airline Reviews Analysis Dashboard
 
 Overview
 
