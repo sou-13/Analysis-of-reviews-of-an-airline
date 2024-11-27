@@ -14,7 +14,7 @@ Features
 
 Data Source
 
--Kaggle dataset
+- Kaggle dataset
 
 Tools Used
 
